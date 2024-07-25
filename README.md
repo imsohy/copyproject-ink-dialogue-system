@@ -11,7 +11,7 @@ ShapedByRainStudios의 Youtube 재생목록 'Unity2D + INK Dialogue System'을 �
 ### 2024-07-24
 create branch 2-choices-implemented
 #### 내용: 
-NPC와 기본적인 대화시스템 구축
+NPC와 기본적인 대화시스템 구축 </n>
 onclick() No Function 문제 : [Button Onclick() No Function 문제](https://mingxoxo-record.tistory.com/23)
 #### 후기:
 전 분명히 전부 해결했다고 생각했는데, 컴포넌트에 오브젝트를 연결하는 부분에서 Script가 아닌 GameObject를 연결해야하더군요...스크립트를 연결하는것과 게임오브젝트를 연결하는 것과
