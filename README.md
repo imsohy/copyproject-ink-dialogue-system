@@ -6,7 +6,7 @@ ShapedByRainStudios의 Youtube 재생목록 'Unity2D + INK Dialogue System'을 �
 * 유투브 재생목록 : [Unity2D + INK Dialogue System](https://www.youtube.com/playlist?list=PL3viUl9h9k78KsDxXoAzgQ1yRjhm7p8kl, "youtube playlist로")
 * 원 프로젝트 Github : [shapedbyrainstudios/ink-dialogue-system](https://github.com/shapedbyrainstudios/ink-dialogue-system, "github link로")
 
-아마도 원 깃헙에 있는 코드를 그대로 새 유니티 프로젝트로 가져올 수 있을 겁니다. 저는 그런지 몰라서 소스코드를 일일히 다...
+원 깃헙에 있는 코드를 그대로 새 유니티 프로젝트로 가져올 수 있습니다.
 ## 업로드 노트
 ### 2024-07-24
 create branch 2-choices-implemented
